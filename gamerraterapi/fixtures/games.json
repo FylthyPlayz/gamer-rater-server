@@ -1,0 +1,67 @@
+[
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "World of Warcraft",
+            "description": "Best of its kind. The king of MMO's.",
+            "designer": "Blizzard",
+            "year_release": 2004,
+            "num_of_players": 1000,
+            "estimated_time": 100,
+            "age_recommendation": 12
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Elder Scrolls Online",
+            "description": "Best combat experience in the MMO genre.",
+            "designer": "Blizzard",
+            "year_release": 2014,
+            "num_of_players": 1000,
+            "estimated_time": 100,
+            "age_recommendation": 12
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Dungeons and Dragons",
+            "description": "The best game ever created. It started everything fantasy!",
+            "designer": "Gary Gygax",
+            "year_release": 1972,
+            "num_of_players": 1000,
+            "estimated_time": 100,
+            "age_recommendation": 12
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 4,
+        "fields": {
+            "title": "Legends of Runeterra",
+            "description": "Top tier card game with great mechanics and easy ",
+            "designer": "Riot Game",
+            "year_release": 2020,
+            "num_of_players": 1000,
+            "estimated_time": 100,
+            "age_recommendation": 8
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 5,
+        "fields": {
+            "title": "NBA 2k22",
+            "description": "The yearly installment of the best basketball series of all time.",
+            "designer": "2k Games",
+            "year_release": 2021,
+            "num_of_players": 10,
+            "estimated_time": 25,
+            "age_recommendation": 8
+        }
+    }
+]

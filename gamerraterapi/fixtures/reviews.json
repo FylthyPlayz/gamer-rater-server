@@ -1,0 +1,12 @@
+[
+    {
+        "model": "gamerraterapi.review",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "player": 1,
+            "review": "Recently having a fall from grace. Still the most content in an MMO ever and the founding father of the genre.",
+            "rating": 7.5
+        }
+    }
+]
